@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ir_a_buscar_reciclaje">Ir a buscar reciclaje</string>
+    <string name="direcci_n_del_reciclaje">Dirección del reciclaje</string>
+    <string name="cerrar">Cerrar</string>
+</resources>

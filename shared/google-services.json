@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289130107233",
+    "project_id": "eco-project-berazategui",
+    "storage_bucket": "eco-project-berazategui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289130107233:android:4bac96b4f852989a033520",
+        "android_client_info": {
+          "package_name": "eco.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtC0ZMSMkv8ye0PM_tsVEkoBD2PsGKD2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
