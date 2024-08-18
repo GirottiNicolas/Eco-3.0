@@ -1,15 +1,6 @@
-This is a Kotlin Multiplatform project targeting Android, iOS.
+Proyecto eco
 
-* `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
-  It contains several subfolders:
-  - `commonMain` is for code that’s common for all targets.
-  - Other folders are for Kotlin code that will be compiled for only the platform indicated in the folder name.
-    For example, if you want to use Apple’s CoreCrypto for the iOS part of your Kotlin app,
-    `iosMain` would be the right folder for such calls.
+Es una aplicacion movil creada con kotlin multiplatform. 
 
-* `/iosApp` contains iOS applications. Even if you’re sharing your UI with Compose Multiplatform, 
-  you need this entry point for your iOS app. This is also where you should add SwiftUI code for your project.
-
-* `/shared` is for the code that will be shared between all targets in the project.
-  The most important subfolder is `commonMain`. If preferred, you can add code to the platform-specific folders here too.
-
+Podes crear un usuario como reciclador, que te permite publicar tu reciclaje.
+Por otro lado, podes tener un usuario recolector, que te permite ver en el mapa de la ciudad, donde hay reciclajes disponibles para ir a buscar.
